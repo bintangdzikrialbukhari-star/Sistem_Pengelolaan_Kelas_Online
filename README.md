@@ -1,10 +1,4 @@
-# Sistem_Pengelolaan_Kelas_Online
-
 ## KelasKu — Sistem Pengelolaan Kelas Online
-
-# Tema Proyek
-
-## Sistem Pengelolaan Kelas Online.
 
 ### Deskripsi
 
@@ -24,7 +18,7 @@ No.| Nama Anggota               | Peran
 
 3  | Nama Anggota 3             | Penyusunan Laporan
 
-4  | Nama Anggota 4             | Sesuaikan dengan pembagian tugas kelompok
+4  | Bintang Dzikri Al Bukhari 2609116030            | Perancang Program dan 
 
 
 
@@ -40,11 +34,11 @@ No.| Nama Anggota               | Peran
 
 ## User
 
-- Registrasi akun.
-- Login sebagai user.
-- Melihat daftar kelas.
-- Logout dari aplikasi.
-
+- Melihat Daftar Kelas.
+- Top Up.
+- Membeli Kelas.
+- Log Out.
+- 
 ## Penyimpanan Data
 
 - Data akun disimpan dalam file "akun.json".
