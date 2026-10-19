@@ -1,10 +1,4 @@
-# Sistem_Pengelolaan_Kelas_Online
-
 ## KelasKu — Sistem Pengelolaan Kelas Online
-
-# Tema Proyek
-
-## Sistem Pengelolaan Kelas Online.
 
 ### Deskripsi
 
